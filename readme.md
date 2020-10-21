@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Tasks" src="./src/images/readme/readme-heather.png" height="200px">
+  <img alt="Tasks" src="./github/readme-heather.png" height="200px">
 </h1>
 
 <strong>
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-    <img alt="Screens" src="./frontend/src/images/readme/landing.png" height="350px" />
+    <img alt="Screens" src="./github/landing.png" height="350px" />
 </p>
 
 ## :bookmark: Sobre
@@ -50,6 +50,6 @@
 Este projeto está sobre uma licença **MIT**.
 
 <div align="center">
-    <img alt="Screens" src="./frontend/src/images/readme/1-navigate.gif" height="200" />
-    <img alt="Screens" src="./frontend/src/images/readme/2-details.gif" height="200" />
+    <img alt="Screens" src="./github/1-navigate.gif" height="200" />
+    <img alt="Screens" src="./github/2-details.gif" height="200" />
 </div>
