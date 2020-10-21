@@ -31,7 +31,6 @@
 -  **[Express](https://expressjs.com/)**
 -  **[SQLite](https://www.sqlite.org/)**
 -  **[ReactJS](https://reactjs.org/)**
--  **[React Native](http://facebook.github.io/react-native/)**
 -  **[Axios](https://github.com/axios/axios)**
 
 <br>
@@ -40,8 +39,7 @@
 
 - **[Visual Studio Code](https://code.visualstudio.com/)**
 - **[Insomnia](https://www.postman.com/)**
-- **[Android Studio](https://developer.android.com/studio)**
-
+- **[Beekeeper Studio](https://www.beekeeperstudio.io/)**
 <br>
 
 
