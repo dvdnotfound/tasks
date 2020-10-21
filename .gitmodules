@@ -1,0 +1,6 @@
+[submodule "frontend-tasks"]
+	path = frontend-tasks
+	url = https://github.com/dvdnotfound/frontend-tasks
+[submodule "backend-tasks"]
+	path = backend-tasks
+	url = https://github.com/dvdnotfound/backend-tasks
