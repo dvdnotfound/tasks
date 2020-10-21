@@ -20,7 +20,7 @@
 
 ## :bookmark: Sobre
 
-**Tasks** é uma plataforma web e mobile que tem como principal objetivo, ligar as pessoas interessadas em trabalho voluntário à locais disponíveis. Após entrar no aplicativo o usuário verifica os locais mais proximos a sua cidade que precisam de voluntariado, assim como o responsável pelo local poderá registrar a propriedade em questão para a requisição de ajuda voluntária. No campo de instruções haverá detalhes do trabalho em específico, assim como benefícios aos voluntarios caso este o deseje. Este projeto foi adaptado e inspirado na aplicação Happy, desenvolvido durante a **Next Level Week #3** da **[Rocketseat](https://rocketseat.com.br/)**, realizado entre os dias 12/10/2020 ate 18/10/2020.
+**Tasks** é uma plataforma web que tem como principal objetivo, ligar as pessoas interessadas em trabalho voluntário à locais disponíveis. Após entrar no aplicativo o usuário verifica os locais mais proximos a sua cidade que precisam de voluntariado, assim como o responsável pelo local poderá registrar a propriedade em questão para a requisição de ajuda voluntária. No campo de instruções haverá detalhes do trabalho em específico, assim como benefícios aos voluntarios caso este o deseje. Este projeto foi adaptado e inspirado na aplicação Happy, desenvolvido durante a **Next Level Week #3** da **[Rocketseat](https://rocketseat.com.br/)**, realizado entre os dias 12/10/2020 ate 18/10/2020.
 
 <br>
 
