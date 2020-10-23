@@ -1,6 +1,7 @@
 <h1 align="center">
   <img alt="Tasks" src="./github/readme-heather.png" height="200px">
 </h1>
+  <img alt="Tasks" src="./github/readme-heather.png" height="200px">
 
 <strong>
 <br>
