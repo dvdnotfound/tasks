@@ -45,7 +45,7 @@
 
 ## :memo: Licença
 
-Este projeto está sobre uma licença **MIT**.
+Este projeto está sobre uma licença: **MIT**.
 
 <div align="center">
     <img alt="Screens" src="./github/1-navigate.gif" height="200" />
